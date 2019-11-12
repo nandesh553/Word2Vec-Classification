@@ -7,6 +7,8 @@ Make a classifier which takes in a job description and gives the department name
 *   Use a neural network model
 *   Make use of a pre-trained Word Embeddings (example: Word2Vec, GloVe, etc.)
 *   Calculate the accuracy on a test set (data not used to train the model)
+*   At last, please write about approach you have followed in assignment and what other(possible) approches you would have followed if given more time. please explain the intuition behind your approach and also write why you have picked this approach among other.
+
 
 ### Data Structring
 
